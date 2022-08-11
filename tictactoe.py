@@ -141,6 +141,4 @@ class TicTacToe():
 tic_tac_toe = TicTacToe()
 tic_tac_toe.start()
 
-#DONE    ### find a way to prevent overwriting ###  
-### find a way to not switch players if other player had invalid input ###
 
